@@ -137,35 +137,20 @@ export default function Home() {
       <section className="py-16 md:py-24 bg-secondary/20">
         <div className="container">
           <div className="max-w-6xl mx-auto">
-            <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">天切な思い出をいつまでも</h2>
-            <p className="text-lg text-center text-muted-foreground leading-relaxed mb-12 max-w-3xl mx-auto">
-              家族の一員として大切にお見送りをさせていただきます。
-              亡きペットちゃんと、ずっと一緒にいたいあなたのために。
-            </p>
-            <div className="grid md:grid-cols-3 gap-6">
-              <div className="space-y-4">
+            <div className="grid md:grid-cols-2 gap-8">
+              <div>
                 <img
-                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/ABBTGQiNjTHxqHya.jpeg"
-                  alt="正覚寺の外観"
-                  className="w-full h-[300px] object-cover rounded-lg shadow-lg"
+                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/zBjDZHoaXBgannwi.png"
+                  alt="ペット供養塔のご案内と地図"
+                  className="w-full h-auto rounded-lg shadow-lg"
                 />
-                <p className="text-sm text-center text-muted-foreground">正覚寺の外観</p>
               </div>
-              <div className="space-y-4">
+              <div>
                 <img
-                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/vLXngoXdgoSatNmd.jpg"
-                  alt="本堂内部"
-                  className="w-full h-[300px] object-cover rounded-lg shadow-lg"
+                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/vyJsnsUGgxnvZdpH.png"
+                  alt="施設のご案内"
+                  className="w-full h-auto rounded-lg shadow-lg"
                 />
-                <p className="text-sm text-center text-muted-foreground">本堂内部</p>
-              </div>
-              <div className="space-y-4">
-                <img
-                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/DvWWbQRbZTiTwZCf.jpg"
-                  alt="供養塔"
-                  className="w-full h-[300px] object-cover rounded-lg shadow-lg"
-                />
-                <p className="text-sm text-center text-muted-foreground">供養塔</p>
               </div>
             </div>
           </div>
