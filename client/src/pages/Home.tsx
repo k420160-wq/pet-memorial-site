@@ -78,18 +78,14 @@ export default function Home() {
 
                 {/* 料金表 */}
                 <div className="mb-10">
-                  <div className="grid grid-cols-2 gap-4 max-w-md mx-auto">
-                    <div className="text-center p-4 bg-background rounded">
+                  <div className="grid grid-cols-2 gap-6 max-w-lg mx-auto">
+                    <div className="text-center p-6 bg-background rounded-lg">
                       <p className="text-sm text-muted-foreground mb-2">参加費</p>
-                      <p className="text-2xl font-bold text-primary">無料</p>
+                      <p className="text-3xl font-bold text-primary">無料</p>
                     </div>
-                    <div className="text-center p-4 bg-background rounded">
-                      <p className="text-sm text-muted-foreground mb-2">埋葬</p>
-                      <p className="text-2xl font-bold text-primary">¥0-</p>
-                    </div>
-                    <div className="col-span-2 text-center p-4 bg-background rounded">
+                    <div className="text-center p-6 bg-background rounded-lg">
                       <p className="text-sm text-muted-foreground mb-2">塔婆</p>
-                      <p className="text-2xl font-bold text-primary">¥3000-</p>
+                      <p className="text-3xl font-bold text-primary">￥3000-</p>
                     </div>
                   </div>
                   <p className="text-sm text-center text-muted-foreground mt-6 px-4">
