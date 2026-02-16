@@ -185,7 +185,7 @@ export default function Home() {
                     <div>
                       <h3 className="text-xl font-bold mb-3">電車でお越しの場合</h3>
                       <p className="text-muted-foreground leading-relaxed">
-                        京成ときぶね駅より徒歩8分、東武ときぶね駅より徒歩13分ほどになります。
+                        京成ひきふね駅より徒歩8分、東武ひきふね駅より徒歩13分ほどになります。
                       </p>
                     </div>
                   </div>
@@ -214,8 +214,8 @@ export default function Home() {
                   03-3613-1321
                 </a>
               </div>
-              <p className="text-sm text-muted-foreground mt-2">天王寺山 正覚寺</p>
-              <p className="text-sm text-muted-foreground">東京都墨田区八広</p>
+              <p className="text-sm text-muted-foreground mt-2">真言宗智山派　 正覚寺</p>
+              <p className="text-sm text-muted-foreground">東京都墨田区八広3-5-2</p>
             </div>
           </div>
         </div>
