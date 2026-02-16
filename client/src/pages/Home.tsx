@@ -16,7 +16,7 @@ export default function Home() {
   }, []);
 
   const handleApplyClick = () => {
-    window.open("https://forms.gle/example", "_blank");
+    window.open("https://docs.google.com/forms/d/e/1FAIpQLSfKuo6eNh9689hfMVBt8UJLTNf6ThmbcdsyDl9PEwnTkqzOdg/viewform?usp=header", "_blank");
   };
 
   return (
@@ -25,7 +25,7 @@ export default function Home() {
       <section className="relative h-[70vh] min-h-[500px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/30 to-black/50 z-10" />
         <img
-          src="https://private-us-east-1.manuscdn.com/sessionFile/BIrgJEbmOWjJBGpeD7moJw/sandbox/VgwunagMoVZSnAIc4OYn5i-img-1_1771202370000_na1fn_aGVyby1tZW1vcmlhbC1jZXJlbW9ueQ.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQklyZ0pFYm1PV2pKQkdwZUQ3bW9Kdy9zYW5kYm94L1Znd3VuYWdNb1ZaU25BSWM0T1luNWktaW1nLTFfMTc3MTIwMjM3MDAwMF9uYTFmbl9hR1Z5YnkxdFpXMXZjbWxoYkMxalpYSmxiVzl1ZVEuanBnP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLHdfMTkyMCxoXzE5MjAvZm9ybWF0LHdlYnAvcXVhbGl0eSxxXzgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=tC35Ux4NfSnBuwlIfwoB0v2ipvPLDTgAJzMHWF5jxVjBmZ-vYTscZYwN9HLg5E99VynIBUn9mVqVCWDPugHWsNW7Nm13FtXvvgZcqDcF5J9eFRfrLZYNYKrVViKmaZBrSO-lxKnpHYLXH0fjCMyTd~LrsuYttww5WvmhkOn225T~EwudK6p3H4ghi3jWqy5v40XIjMoHccggafgBAt4xKOmyTRBcZI5XJwEpVhKemdwyrYYMwqtCSxlVEgnFVvu79gBaf56n6g17imQlo1WN6x5KtxBIchUJprBhQ0KvheQ2sDfBOG50ZdTkGX1GPcLem2Cx8s~wP7khLwIQSvr2wA__"
+          src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/hFtGlpFxVRqJmrcN.jpg"
           alt="合同納骨式の様子"
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -122,7 +122,7 @@ export default function Home() {
               <iframe
                 width="100%"
                 height="100%"
-                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                src="https://www.youtube.com/embed/EsxqL6pCe1A"
                 title="ペット火葬・供養/合同納骨式の流れ"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
@@ -137,26 +137,35 @@ export default function Home() {
       <section className="py-16 md:py-24 bg-secondary/20">
         <div className="container">
           <div className="max-w-6xl mx-auto">
-            <div className="grid md:grid-cols-2 gap-12 items-center">
-              <div className="space-y-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">天切な思い出をいつまでも</h2>
+            <p className="text-lg text-center text-muted-foreground leading-relaxed mb-12 max-w-3xl mx-auto">
+              家族の一員として大切にお見送りをさせていただきます。
+              亡きペットちゃんと、ずっと一緒にいたいあなたのために。
+            </p>
+            <div className="grid md:grid-cols-3 gap-6">
+              <div className="space-y-4">
                 <img
-                  src="https://private-us-east-1.manuscdn.com/sessionFile/BIrgJEbmOWjJBGpeD7moJw/sandbox/VgwunagMoVZSnAIc4OYn5i-img-2_1771202368000_na1fn_dGVtcGxlLWdhcmRlbi1wZWFjZWZ1bA.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQklyZ0pFYm1PV2pKQkdwZUQ3bW9Kdy9zYW5kYm94L1Znd3VuYWdNb1ZaU25BSWM0T1luNWktaW1nLTJfMTc3MTIwMjM2ODAwMF9uYTFmbl9kR1Z0Y0d4bExXZGhjbVJsYmkxd1pXRmpaV1oxYkEuanBnP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLHdfMTkyMCxoXzE5MjAvZm9ybWF0LHdlYnAvcXVhbGl0eSxxXzgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=HwfCxe~jk2h98Cmhf-gKsvaW6w~-~qw-Y20uYVq5jyGogs2t6awM3ZTkPB85Au~Ktzso16x4JaasVwqjo~bsMJGtOExw~urJe-BzcdayCLKa1RZFC459d7M7uStVdtH3s4Z3B-dfNtznkCv8LmXL-Qe1IG9xIu9x-mL-saleyKBzOCWc0cjLlZ1SW8ZHv7wp75nF4OhLnxoZjKwe39kQ43EnCcVrEAqrHkP4ys9GD6F2hzkD7AxHwrosaTnpZkXsj00eGVJlmmj-YrT4FxpxNLGjRkVafxs3jRSAQeiy51-czpBdVkJm0AJGgXbkLKw5qVGPCN1ta9rzboM8hfxlgA__"
-                  alt="正覚寺の庭園"
-                  className="w-full h-[400px] object-cover rounded-lg shadow-lg"
+                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/ABBTGQiNjTHxqHya.jpeg"
+                  alt="正覚寺の外観"
+                  className="w-full h-[300px] object-cover rounded-lg shadow-lg"
                 />
+                <p className="text-sm text-center text-muted-foreground">正覚寺の外観</p>
               </div>
-              <div className="space-y-6">
-                <h3 className="text-2xl md:text-3xl font-bold">天切な思い出をいつまでも</h3>
-                <p className="text-lg text-muted-foreground leading-relaxed">
-                  家族の一員として大切にお見送りをさせていただきたち。
-                  有界のペットちゃんと、ずっと一緒にいたいあなたのために。
-                  賀すかなペットちゃんと、ずっと一緒にいたいあなたのために。
-                </p>
+              <div className="space-y-4">
                 <img
-                  src="https://private-us-east-1.manuscdn.com/sessionFile/BIrgJEbmOWjJBGpeD7moJw/sandbox/VgwunagMoVZSnAIc4OYn5i-img-3_1771202363000_na1fn_bWVtb3JpYWwtdG93ZXItZGV0YWls.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvQklyZ0pFYm1PV2pKQkdwZUQ3bW9Kdy9zYW5kYm94L1Znd3VuYWdNb1ZaU25BSWM0T1luNWktaW1nLTNfMTc3MTIwMjM2MzAwMF9uYTFmbl9iV1Z0YjNKcFlXd3RkRzkzWlhJdFpHVjBZV2xzLmpwZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=QrMe32mfVf6GQYeYJebfiGlWF3LRhAufMA7Akek5HxqIe3eXFy4Lu0r5jqEH0i7Xer8EJSfjTNaQkK8H2EV-mu6ClUm5szSotnkEwN9WzKk-ltR8-4y7FbQ6uhZWtgiqUkh~eRewyKD3WArEqOgCeGv3fRO6S9BHQjoNyrJwwjl12iydyB-hIh9IQQ70U3b0rlQCoPU0HqfrzmTenz~bdsi~q0y3j1oCnVxq56o5bP5IfQIAuINpNPzwkLFcW3XrAcMe6G~eKCEpO7gVmfxgPy~RdZrm1U0z3SMYnYGh3tyT7iiLX2tqq~-pEhHUO9nPsQR7MNTCymgw1NaGB0KC2g__"
+                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/vLXngoXdgoSatNmd.jpg"
+                  alt="本堂内部"
+                  className="w-full h-[300px] object-cover rounded-lg shadow-lg"
+                />
+                <p className="text-sm text-center text-muted-foreground">本堂内部</p>
+              </div>
+              <div className="space-y-4">
+                <img
+                  src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663290845198/DvWWbQRbZTiTwZCf.jpg"
                   alt="供養塔"
                   className="w-full h-[300px] object-cover rounded-lg shadow-lg"
                 />
+                <p className="text-sm text-center text-muted-foreground">供養塔</p>
               </div>
             </div>
           </div>
