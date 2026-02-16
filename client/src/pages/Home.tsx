@@ -93,7 +93,7 @@ export default function Home() {
                     </div>
                   </div>
                   <p className="text-sm text-center text-muted-foreground mt-6 px-4">
-                    （埋葬をお申込みいただきますと並進の際、ペットちゃんのお名前を読み上げていただけます。）
+                    （塔婆をお申込みいただきますと読経の際、ペットちゃんのお名前を読み上げていただけます。）
                   </p>
                 </div>
 
