@@ -54,7 +54,7 @@ export default function Home() {
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">開催場所</h2>
             <div className="flex items-center justify-center gap-2 text-lg text-muted-foreground">
               <MapPin className="w-5 h-5 text-primary" />
-              <span>正覚寺（堀田区八広）</span>
+              <span>正覚寺（墨田区八広）</span>
             </div>
           </div>
         </div>
@@ -88,7 +88,7 @@ export default function Home() {
                       <p className="text-2xl font-bold text-primary">¥0-</p>
                     </div>
                     <div className="col-span-2 text-center p-4 bg-background rounded">
-                      <p className="text-sm text-muted-foreground mb-2">焼骨</p>
+                      <p className="text-sm text-muted-foreground mb-2">塔婆</p>
                       <p className="text-2xl font-bold text-primary">¥3000-</p>
                     </div>
                   </div>
