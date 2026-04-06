@@ -71,7 +71,7 @@ export default function Home() {
                 <div className="prose prose-lg max-w-none mb-8 text-foreground/90">
                   <p className="text-center mb-6">参加希望の方は下記よりお申込ください。</p>
                   <p className="text-center text-red-600 font-medium mb-2">
-                    塔婆申込の締切：<span className="font-bold">4月2日（木曜日）</span>となります。
+                    塔婆申込の締切：<span className="font-bold">6月4日（木曜日）</span>となります。
                   </p>
                   <p className="text-center mb-8">ご参加の方は当日直接参加の申し込みでも結構です。</p>
                 </div>
