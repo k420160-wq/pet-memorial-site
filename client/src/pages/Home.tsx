@@ -37,7 +37,7 @@ export default function Home() {
           <div className="space-y-3 text-white/95 text-lg md:text-xl">
             <p className="flex items-center justify-center gap-2">
               <Calendar className="w-5 h-5" />
-              <span>日時：2026年4月5日（日）</span>
+              <span>日時：2026年6月7日（日）</span>
             </p>
             <p className="flex items-center justify-center gap-2">
               <Clock className="w-5 h-5" />
